@@ -2,7 +2,7 @@
 
     Visão Geral: 
 
-PokéPai é uma aplicação interativa para explorar e analisar dados de Pokémon usando a PokéAPI. O projeto permite que os usuários selecionem Pokémon, visualizem suas estatísticas, habilidades, 
+PokéAPI é uma aplicação interativa para explorar e analisar dados de Pokémon usando a PokéAPI. O projeto permite que os usuários selecionem Pokémon, visualizem suas estatísticas, habilidades, 
 tipos e movimentos, além de receber sugestões de treinamento. Também inclui uma funcionalidade para exibir os cinco Pokémon mais fortes com base em uma análise comparativa.
 
     Funcionalidades: 
@@ -39,4 +39,5 @@ Função fetch_all_pokemon(): Busca dados de múltiplos Pokémon e organiza suas
 Função suggest_training_with_llm(): Sugere estratégias de treinamento com base nos status do Pokémon.
 Função fetch_pokemon_info(): Coleta informações detalhadas de um Pokémon e exibe em uma tabela e gráfico de pizza.
 Função display_top_pokemon(): Compara as estatísticas e exibe os cinco Pokémon mais fortes.
+
 
